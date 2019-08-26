@@ -1,0 +1,57 @@
+body
+{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(179,0,134);
+  background-color: rgb(193,193,215);
+}
+h1#malak {
+  text-align: center;
+  font-size: 6em;
+  color: white;
+}
+h2{
+  text-align: center;
+  color:white;
+}
+h1#amr{
+  color:pink;
+  text-align: center;
+}
+button{
+  margin-left: 600;
+  color: pink;
+  background-color: black;
+}
+h1#first{
+  font-size: 10em;
+  background-color: rgb(179,0,134);
+  color: white;
+  margin-top: 0;
+  margin-left: 0;
+}
+ul#nav{list-style-type: none;
+  margin-top:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
